@@ -3,14 +3,14 @@
 }
 body {
     margin: 0;
-    background: rgb(126, 9, 204);
+    background: rgb(29,161,242);
 }
 * {
     font-family: 'Cascadia Mono', '微软雅黑';
     transition: all .7s;
 }
 *::selection {
-    background: rgb(126, 9, 204);
+    background: rgb(29,161,242);
     color: white;
 }
 .root {
@@ -452,3 +452,4 @@ pre {
     color: #ffffff; /* 代码块字体颜色 */
     font-family: 'Cascadia Mono', Consolas, monospace;
 }
+
